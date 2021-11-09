@@ -1,5 +1,5 @@
-## Mia Doričić
+---
+title: Mia Doricic
+---
 
 Dobrodošli na moju stranicu.
-
-* [GitHub](https://github.com/yannolle)
