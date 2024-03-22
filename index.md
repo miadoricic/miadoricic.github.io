@@ -2,7 +2,7 @@
 title: Mia Doricic
 ---
 
-Dobrodošli na moju stranicu.
+Pls gib job.
 
 Sadržaji:
 
