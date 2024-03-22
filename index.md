@@ -4,6 +4,6 @@ title: Mia Doricic
 
 Pls gib job.
 
-Sadržaji:
 
 - [Curriculum vitae](files/resume.pdf)
+- [Free-time projects](https://yannolle.itch.io)
